@@ -46,7 +46,8 @@ Example:
   ]
 }
 
-How to Use
 
-	1.	Prepare your flashcards JSON file (e.g., flashcards.json) according to the format above.
-  2.	Run the quiz script:
+## ▶️ How to Run
+
+You can run the code directly in **Google Colab** (no setup needed):
+https://colab.research.google.com/github/tara-hassanzadeh/advanced_flashcard_quizzer/blob/main/advanced_flashcard_quizzer.ipynb
